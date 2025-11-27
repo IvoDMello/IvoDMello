@@ -1,22 +1,28 @@
-## Olá! Bem vindo(a) ao meu perfil do Github 🙂
+### Olá! Eu sou o Ivo de Mello 👋
+
+Sou um profissional focado em **Ciência e Engenharia de Dados**, dedicado a transformar grandes volumes de dados em *insights* estratégicos e soluções eficientes. Bem-vindo(a) ao meu portfólio de projetos!
+
 ---
 
-<div style="display: inline_block"><br>
-<img align="center" alt="Ivo-Python" height=35 width=45 src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/python/python-original.svg" />
-<img align="center" alt="Ivo-mysql" height=35 width=45 src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/mysql/mysql-original.svg" />
-<img align="center" alt="Ivo-postgreSql" height=35 width=45 src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/postgresql/postgresql-original.svg" />
-<img align="center" alt="Ivo-sqLite" height=35 width=45 src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/sqlite/sqlite-original.svg" />
-<img align="center" alt="Ivo-googleColab" height=35 width=45 src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/googlecolab/googlecolab-original.svg" />
-<img align="center" alt="Ivo-jupyter" height=35 width=45 src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/jupyter/jupyter-original-wordmark.svg" />
+### 🛠️ Minhas Habilidades e Ferramentas
+
+<div align="left" style="background-color: #30363d; padding: 15px; border-radius: 10px; width: fit-content;">
+  <img align="center" alt="Ivo-Python" title="Python" height="40" width="50" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/python/python-original.svg" />
+  <img align="center" alt="Ivo-SQL" title="SQL (MySQL/PostgreSQL)" height="40" width="50" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/mysql/mysql-original.svg" />
+  <img align="center" alt="Ivo-postgreSql" title="PostgreSQL" height="40" width="50" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/postgresql/postgresql-original.svg" />
+  <img align="center" alt="Ivo-Pandas" title="Pandas" height="40" width="50" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/pandas/pandas-original.svg" />
+  <img align="center" alt="Ivo-Numpy" title="Numpy" height="40" width="50" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/numpy/numpy-original.svg" />
+  <img align="center" alt="Ivo-Matplotlib" title="Matplotlib" height="40" width="50" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/matplotlib/matplotlib-original.svg" />
+  <img align="center" alt="Ivo-googleColab" title="Google Colab" height="40" width="50" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/googlecolab/googlecolab-original.svg" />
+  <img align="center" alt="Ivo-jupyter" title="Jupyter" height="40" width="50" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/jupyter/jupyter-original-wordmark.svg" />
 </div>
 
-## 
+<br>
+
+### 🔗 Conecte-se Comigo
 
 <div>
-<a href="https://www.linkedin.com/in/ivo-barbosa-3538b3235/" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a>
+  <a href="https://www.linkedin.com/in/ivo-barbosa-3538b3235/" target="_blank">
+    <img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn Badge" />
+  </a>      
 </div>
-
-
-
-
-          
