@@ -1,0 +1,20 @@
+name: Generate snake
+on:
+  schedule:
+    # Roda a cada 12 horas. Você pode mudar a frequência
+    - cron: "0 */12 * * *" 
+  workflow_dispatch:
+
+jobs:
+  build:
+    name: Generate github-contribution-grid-snake.svg
+    runs-on: ubuntu-latest
+    steps:
+      - uses: actions/checkout@v3
+      - uses: Platane/snk@v3
+        with:
+          github_user_name: ${{ github.repository_owner }}
+          # Caminho onde o arquivo SVG será gerado no branch "output"
+          outputs: |
+            dist/github-snake.svg
+            dist/github-snake-dark.svg?palette=github-dark
