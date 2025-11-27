@@ -1,9 +1,13 @@
 name: Generate snake
 on:
   schedule:
-    # Roda a cada 12 horas. Você pode mudar a frequência
+    # Roda a cada 12 horas.
     - cron: "0 */12 * * *" 
   workflow_dispatch:
+
+# ADICIONE ESTE BLOCO ABAIXO:
+permissions:
+  contents: write 
 
 jobs:
   build:
@@ -14,7 +18,7 @@ jobs:
       - uses: Platane/snk@v3
         with:
           github_user_name: ${{ github.repository_owner }}
-          # Caminho onde o arquivo SVG será gerado no branch "output"
+          # Caminho onde o arquivo SVG será gerado
           outputs: |
             dist/github-snake.svg
             dist/github-snake-dark.svg?palette=github-dark
